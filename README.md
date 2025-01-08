@@ -66,10 +66,10 @@
     </a>
   </div>
 
-  <!-- Codechef Stats -->
+   <!-- Codechef Stats -->
   <div>
     <a href="https://www.codechef.com/users/phanisirisha">
-      <img src="https://leetcard.jacoblin.cool/phanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" alt="CodeChef Stats">
+      <img src="https://cp-logo.vercel.app/codechef/phanisirisha" alt="CodeChef Profile">
     </a>
   </div>
 </div>
