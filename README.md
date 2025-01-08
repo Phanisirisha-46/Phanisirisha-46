@@ -58,7 +58,7 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: left; gap: 20px;">
   <!-- Leetcode Stats -->
   <div>
     <a href="https://leetcode.com/u/veerankiphanisirisha/">
@@ -69,7 +69,8 @@
   <!-- Codechef Stats -->
   <div>
     <a href="https://www.codechef.com/users/phanisirisha">
-     <img src="https://leetcard.jacoblin.cool/phanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" alt="Codechef Stats">
+      <img src="https://leetcard.jacoblin.cool/phanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" alt="CodeChef Stats">
     </a>
   </div>
 </div>
+
