@@ -69,7 +69,7 @@
   <!-- Codechef Stats -->
   <div>
     <a href="https://www.codechef.com/users/phanisirisha">
-      <img width="400" src="https://cp-logo.vercel.app/codechef/phanisirisha" alt="CodeChef Profile" />
+     <img src="https://leetcard.jacoblin.cool/phanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" alt="Codechef Stats">
     </a>
   </div>
 </div>
