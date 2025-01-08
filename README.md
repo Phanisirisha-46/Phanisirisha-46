@@ -57,8 +57,19 @@
 ---
 
 
-<div align="center">
-<a href="https://leetcode.com/u/veerankiphanisirisha/">
-    <img src="https://leetcard.jacoblin.cool/veerankiphanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
-</a>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Leetcode Stats -->
+  <div>
+    <a href="https://leetcode.com/u/veerankiphanisirisha/">
+      <img src="https://leetcard.jacoblin.cool/veerankiphanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" alt="LeetCode Stats">
+    </a>
+  </div>
+
+  <!-- Codechef Stats -->
+  <div>
+    <a href="https://www.codechef.com/users/phanisirisha">
+      <img width="400" src="https://cp-logo.vercel.app/codechef/phanisirisha" alt="CodeChef Profile" />
+    </a>
+  </div>
 </div>
