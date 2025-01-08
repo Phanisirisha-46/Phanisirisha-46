@@ -56,20 +56,9 @@
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <a href="https://github.com/Phanisirisha-46">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Phanisirisha-46&theme=dark&locale=en" alt="GitHub Stats" />
-  </a>
-  <a href="https://wakatime.com/@Phanisirisha-46">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Phanisirisha-46&langs_count=6&theme=dark&locale=en" alt="WakaTime Stats" />
-  </a>
-</div>
-
 
 <div align="center">
 <a href="https://leetcode.com/u/veerankiphanisirisha/">
-    <img src="https://leetcard.jacoblin.cool/veerankiphani?theme=green&font=Barlow%20Semi%20Condensed&ext=heatmap">
-
+    <img src="https://leetcard.jacoblin.cool/veerankiphanisirisha?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
 </a>
 </div>
