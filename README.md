@@ -1,6 +1,6 @@
 # Hi 👋, I'm Veeranki Phani Sirisha
 
-## A Passionate Frontend Web Developer
+## A Passionate Web Developer
 
 ## 🏆 Achievements
 
