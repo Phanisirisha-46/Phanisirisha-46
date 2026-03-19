@@ -1,6 +1,6 @@
 # Hi 👋, I'm Veeranki Phani Sirisha
 
-## A Passionate Web Developer
+## A Passionate Web Developer and Tech Enthusiast
 
 ## 🏆 Achievements
 
@@ -9,7 +9,7 @@
 - **Published Writer** - Featured in *Season of Eternal Love* through Thoughts Hymn.
 - **Infosys Springboard Pragati Scholar** - Part of the *Path to Future Program* for Cohort 2.
 - **Rhyno EV Website Developer** - Developed the official website for the Rhyno Electric Bike.
-- **Core Team Member at GDG** - Active contributor to Google Developer Groups (GDG).
+- **LEAD at GDG** - Active contributor to Google Developer Groups (GDG).
 
 
 ---
